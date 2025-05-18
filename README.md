@@ -1,4 +1,4 @@
-### CNN for binary classification between Ferrari and Porsche car images
+# CNN for binary classification between Ferrari and Porsche car images
 Really just trying my hands out on CNNs, Quite fun ;)
 
 - Trained on a GTX 1660 Super 6GB 
